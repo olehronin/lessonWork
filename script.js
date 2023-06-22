@@ -9,7 +9,7 @@ const personalMovieDB = {
 };
 
 
-var a = 5;
+var a = 5555555555555;
 
 const a = prompt('Один из последних просмотреных фильмов?', ''),
       b = prompt('На сколько цените его?', ''),
