@@ -8,6 +8,9 @@ const personalMovieDB = {
     privat: false
 };
 
+
+var a = 5;
+
 const a = prompt('Один из последних просмотреных фильмов?', ''),
       b = prompt('На сколько цените его?', ''),
       c = prompt('Один из последних просмотреных фильмов?', ''),
